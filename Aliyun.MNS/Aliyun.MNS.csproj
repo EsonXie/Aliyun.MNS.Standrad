@@ -8,6 +8,8 @@
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <PackageId>Aliyun.MNS.Standrad</PackageId>
     <Description>Aliyun.MNS for .net standrad</Description>
+    <PackageProjectUrl>https://github.com/EsonXie/Aliyun.MNS.Standrad</PackageProjectUrl>
+    <PackageTags>Aliyun.MNS</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
